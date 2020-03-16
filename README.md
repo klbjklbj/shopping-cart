@@ -1,2 +1,2 @@
 # shopping-cart
-A shopping cart based React and Redux
+A shopping cart made with React and Redux
